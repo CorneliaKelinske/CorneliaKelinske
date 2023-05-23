@@ -13,5 +13,5 @@ Prior to working with programming languages, I ran a successful one-woman busine
 - I like solving problems 
 - I know how to search for solutions online (aka google it) and do not hesitate to ask for help when I am stuck
 
-:mailbox: Feel free to contact me if you are looking for a low-maintenance junior dev.
+:mailbox: Feel free to contact me if you are looking for a low-maintenance dev.
 
